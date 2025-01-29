@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: center;
+  margin: 100px;
+  background-color: black;
+}
+.button {
+  background-color: blue;
+  color: white;
+  height: 50px;
+  width: 150px;
+  border-radius: 300px;
+}
+.button:hover {
+  background-color: #0eb451;
+}

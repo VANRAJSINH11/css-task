@@ -1,0 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.main{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    background-size: cover;
+}

@@ -1,0 +1,78 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 10px;
+  margin: 10px;
+}
+
+.thick1 {
+  background-color: blue;
+  border: dashed;
+  opacity: 1;
+  margin: 20px;
+}
+
+.thick09 {
+  background-color: blue;
+  border: dashed;
+  opacity: 0.9;
+  margin: 20px;
+}
+
+.thick08 {
+  background-color: blue;
+  border: dashed;
+  opacity: 0.8;
+  margin: 20px;
+}
+.thick07 {
+  background-color: blue;
+  border: dashed;
+  opacity: 0.7;
+  margin: 20px;
+}
+
+.thick06 {
+  background-color: blue;
+  border: dashed;
+  opacity: 0.6;
+  margin: 20px;
+}
+
+.thick05 {
+  background-color: blue;
+  border: dashed;
+  opacity: 0.5;
+  margin: 20px;
+}
+
+.thick04 {
+  background-color: blue;
+  border: dashed;
+  opacity: 0.4;
+  margin: 20px;
+}
+
+.thick03 {
+  background-color: blue;
+  border: dashed;
+  opacity: 0.3;
+  margin: 20px;
+}
+
+.thick02 {
+  background-color: blue;
+  border: dashed;
+  opacity: 0.2;
+  margin: 20px;
+}
+
+.thick01 {
+  background-color: blue;
+  border: dashed;
+  opacity: 0.1;
+  margin: 20px;
+}
